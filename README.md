@@ -18,7 +18,7 @@ I want to create an article that shows the data on the violence suffered by the 
     <p>Published on 10/07/2021   -   By: Juan de Dios Sánchez Jurado</p>
     <img src="colombia.jpg" alt="">
     <h1>Defensoria del Pueblo presented a new human rights report related to the LGBTQI population. The statistics show that, between 2020 and 2021, 98 people, including lesbians, gays, bisexuals, transgender women and men, and not conforming people, were murdered in Colombia.</h1>
-    <h1>Number of LGBTQI people murdered in Colombia:</h1>
+<h2>Number of LGBTQI people murdered in Colombia:</h2>
 
   <div class="icon">
 <div class="icon-wraper">
@@ -203,4 +203,3 @@ I want to create an article that shows the data on the violence suffered by the 
 
 <h2>"We call on the authorities so that those responsible for these criminal acts receive exemplary sentences, and on national and territorial entities to promote inclusive training that breaks prejudice towards people with diverse Sexual Orientation and Gender Identity," said Carlos Camargo, Defensor del Pueblo.
 </h2>
-
