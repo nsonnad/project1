@@ -1,5 +1,10 @@
 body {
-background-color: white;
+  background-color: white;
+}
+
+div.main {
+  max-width: 900px;
+  margin: 0 auto;
 }
 
 /* FOR SMALLER SCREENS */
@@ -12,18 +17,18 @@ background-color: white;
   }
 }
 
-img {width: 50%}
+img {max-width: 100%}
 /* div.icon img {width: 10%} */
 
 div.icon-wraper{
   display: flex;
-flex-wrap: wrap;
-flex-direction: row;
+  flex-wrap: wrap;
+  flex-direction: row;
 }
 
 .icon {
-  width: 50%;
   flex-grow: 1;
+  flex-basis: 50%;
   background-color: violet;
 }
 
